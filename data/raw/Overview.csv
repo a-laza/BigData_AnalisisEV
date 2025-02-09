@@ -1,4 +1,4 @@
-ï»¿Trip;Date;Route/Area;Weather;Battery Temperature (Start) [Â°C];Battery Temperature (End);Battery State of Charge (Start);Battery State of Charge (End);;Ambient Temperature (Start) [Â°C];Target Cabin Temperature;Distance [km];Duration [min];;Fan;Note
+Trip;Date;Route/Area;Weather;Battery Temperature (Start) [¡C];Battery Temperature (End);Battery State of Charge (Start);Battery State of Charge (End);;Ambient Temperature (Start) [¡C];Target Cabin Temperature;Distance [km];Duration [min];;Fan;Note
 TripA01;2019-06-25_13-21-14;Munich East;sunny;21,0;22,0;86,3%;80,3%;6,0%;25,5;23,0;7,43;16,82;;Automatic, Level 1;
 TripA02;2019-06-25_14-05-31;Munich East;sunny;23,0;26,0;80,3%;67,3%;13,0%;32,0;23,0;23,51;23,55;;Automatic, Level 1;Target Cabin Temperature changed 
 TripA03;2019-06-28_10-02-15;Munich East;sunny;24,0;25,0;83,5%;75,1%;8,4%;21,5;27,0;12,82;11,18;;Automatic, Level 1;Target Cabin Temperature changed 
